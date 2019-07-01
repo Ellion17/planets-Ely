@@ -1,4 +1,7 @@
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for wolfman
+<<<<<<< HEAD
 But Ely will appreciate the lack of humidity
 An ill-considered change 
+=======
+>>>>>>> parent of 266f2d1... Discous Humidity
